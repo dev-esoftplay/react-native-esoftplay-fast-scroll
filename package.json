@@ -1,0 +1,23 @@
+{
+  "name": "react-native-esoftplay-fast-scroll",
+  "version": "1.0.0",
+  "description": "replace for heavy ScrollView",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-esoftplay/react-native-esoftplay-fast-scroll.git"
+  },
+  "keywords": [
+    "esoftplay",
+    "fast-scroll"
+  ],
+  "author": "masmun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-esoftplay/react-native-esoftplay-fast-scroll/issues"
+  },
+  "homepage": "https://github.com/dev-esoftplay/react-native-esoftplay-fast-scroll#readme"
+}
